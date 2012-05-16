@@ -1,5 +1,3 @@
-http://code.google.com/p/bydialog/
-
 ##Abstract: 
 This is a project about how to custom an model dialog which imitating UIAlertView's behavior.
 Run the app and you can see the effect and message print in console. Enjoy it!
